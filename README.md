@@ -14,6 +14,7 @@
 - Leo Fernando Miranda Rodriguez - MR211604 
 - Rodrigo Humberto Aguilera Mendoza - AM201939
 - Francisco Javier Zaldaña Álvarez - ZA210751
+- Enrique Ernesto Rodríguez Sánchez - RS132134 
 
 ## Enlaces a:
 - Trello: https://trello.com/invite/b/670ff5cd584500d1e9e54478/ATTIe95cc8ff718d25d51e3b0364180dfc61E70CBE0F/kan-ban-task-board
